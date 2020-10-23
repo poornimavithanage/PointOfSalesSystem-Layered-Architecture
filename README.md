@@ -35,7 +35,8 @@ links :
 
 If you did above installations, You only have to double click the jar file and install the jar file.
 
-POS with Maven
+## POS with Maven
+
 * [POS with Layered-Maven](https://github.com/poornimavithanage/pos-system-layered-maven)
 * [POS with Layered-[Hibernate-Maven]](https://github.com/poornimavithanage/POS-Layered-Hibernate-Maven)
 * [POS with Layered-[JPA Hibernate-Maven]](https://github.com/poornimavithanage/POS-Layered-JPA-Maven)

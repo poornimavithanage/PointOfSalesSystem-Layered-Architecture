@@ -35,6 +35,16 @@ links :
 
 If you did above installations, You only have to double click the jar file and install the jar file.
 
+POS with Maven
+* [POS with Layered-Maven](https://github.com/poornimavithanage/pos-system-layered-maven)
+* [POS with Layered-[Hibernate-Maven]](https://github.com/poornimavithanage/POS-Layered-Hibernate-Maven)
+* [POS with Layered-[JPA Hibernate-Maven]](https://github.com/poornimavithanage/POS-Layered-JPA-Maven)
+* [POS with Layered-[Hibernate-Spring-Maven]](https://github.com/poornimavithanage/POS-Integration-Hibernate-with-Spring)
+* [POS with Layered-[JPA Hibernate-Spring-Maven]](https://github.com/poornimavithanage/POS-Integration-JPA-with-Sring-Maven)
+* [POS with Layered-[Spring knows Hibernate Maven]](https://github.com/poornimavithanage/POS-Spring-Hibernate-Maven)
+* [POS with Layered-[Spring knows JPA Maven]](https://github.com/poornimavithanage/POS-System-layered-spring-JPA-Maven)
+* [POS with Layered-[Spring Data JPA Maven]](https://github.com/poornimavithanage/POS-system-spring-data-jpa-maven)
+
 ## Author
 
 name  : Poornima Vithanage
